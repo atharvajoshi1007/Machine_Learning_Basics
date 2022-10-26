@@ -1,3 +1,3 @@
 
-# Hactoberfest 2022
-## Hactoberfest Topic : Machine_Learning_Basics
+# Hacktoberfest 2022
+## Hacktoberfest Topic : Machine_Learning_Basics
